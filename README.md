@@ -1,5 +1,3 @@
-Olá, Eu sou o Luan Oliveira
-
 # 👩🏻‍💻 Luan Oliveira
 
 Me chamo Luan Oliveira Silva, tenho 25 anos e sou natural da Bahia. Atualmente, estou cursando Engenharia Mecânica na UFRB. Sou apaixonado por tecnologia e desejo seguir carreira na área de dados.
