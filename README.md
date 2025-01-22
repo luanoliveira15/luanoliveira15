@@ -34,6 +34,16 @@ Me chamo Luan Oliveira Silva, tenho 25 anos e sou natural da Bahia. Atualmente, 
 
 <img 
     align="left" 
+    alt="MySQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+         
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
